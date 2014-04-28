@@ -1,0 +1,5 @@
+		//四卖平
+		String s4MpX1 = jTextField17.getText().trim();
+
+		//五卖平
+		String s5MpX1 = jTextField18.getText().trim();

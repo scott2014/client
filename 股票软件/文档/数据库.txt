@@ -1,0 +1,22 @@
+导入时间
+导入文件名称
+时间
+价格
+
+id integer
+importDate 
+fileName
+time
+price
+
+
+参数表
+
+策略编号
+策略名称
+参数值
+
+id integer
+stategyId varchar(10)
+stategyName varchar(10)
+argsValue   varchar(400)
